@@ -1,9 +1,8 @@
 {
-  "name": "diego_tonini_server",
-  "version": "1.0.0",
-  "description": "",
   "dependencies": {
-    "micro": "^9.3.4",
+    "express": "^4.16.4",
+    "helmet": "^3.18.0",
+    "moment": "^2.24.0",
     "node-fetch": "^2.6.0"
   }
 }
