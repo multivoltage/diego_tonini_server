@@ -3,6 +3,6 @@
     "express": "^4.16.4",
     "helmet": "^3.18.0",
     "moment": "^2.24.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.1"
   }
 }
